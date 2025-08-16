@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Best Practices for Azure Cloud Migration",
+    "date": "2025-07-01",
+    "description": "A step-by-step guide to migrating enterprise workloads to Azure with zero downtime.",
+    "link": "https://medium.com/@sriramatech/azure-migration-best-practices"
+  },
+  {
+    "title": "DevOps with Azure: CI/CD Pipelines",
+    "date": "2025-07-15",
+    "description": "Learn how to build robust CI/CD pipelines using Azure DevOps for faster deployments.",
+    "link": "https://medium.com/@sriramatech/devops-azure-cicd"
+  },
+  {
+    "title": "AI + Cloud: Building Intelligent Systems",
+    "date": "2025-08-05",
+    "description": "How I integrated Azure AI services into cloud monitoring for anomaly detection.",
+    "link": "#"
+  }
+]

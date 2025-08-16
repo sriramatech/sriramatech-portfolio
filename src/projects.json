@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Azure Cloud Migration",
+    "description": "Led migration of 200+ on-prem servers to Azure using Terraform and Azure DevOps with zero downtime.",
+    "link": "https://github.com/sriramatech/azure-migration",
+    "icon": "Cloud"
+  },
+  {
+    "title": "DevOps Automation",
+    "description": "Implemented CI/CD pipelines using Azure DevOps, reducing deployment time from hours to 15 minutes.",
+    "link": "https://github.com/sriramatech/devops-automation",
+    "icon": "Wrench"
+  },
+  {
+    "title": "Security Compliance",
+    "description": "Designed Azure Security Center policies ensuring ISO 27001 and GDPR compliance.",
+    "link": "#",
+    "icon": "ShieldCheck"
+  },
+  {
+    "title": "AI + Cloud Integration",
+    "description": "Built an AI-driven monitoring solution on Azure with anomaly detection for proactive alerts.",
+    "link": "#",
+    "icon": "Brain"
+  }
+]
